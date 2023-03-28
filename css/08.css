@@ -1,0 +1,11 @@
+@media(min-width:768px){
+    .tres-columnas-flex{
+        display: flex;
+        /* Separacion entre los elementos */
+        gap: 2rem;
+    }
+    .columna{
+        /* Propiedad de crecimiento */
+        flex: 1;
+    }
+}
