@@ -1,0 +1,6 @@
+img {
+    /* snipped para hacer una imahes responsiva */
+    max-width: 100%;
+    /* quitas el espacio inferior de la imagen */
+    display: block;
+}
